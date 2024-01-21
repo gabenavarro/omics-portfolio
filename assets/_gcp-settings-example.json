@@ -1,0 +1,5 @@
+{
+    "gcp-project":"YOUR-GCP-PROJECT",
+    "portfolio-dataset":"DATASET-NAME",
+    "portfolio-blog-table":"TABLE-NAME"
+}
